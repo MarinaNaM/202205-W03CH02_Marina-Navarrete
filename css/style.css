@@ -1,0 +1,27 @@
+html,
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    background-color: #d9afd9;
+    background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    background-color: #c8fdf4;
+    min-height: 70vh;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
